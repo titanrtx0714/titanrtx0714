@@ -8,7 +8,7 @@
 
 🚀 Participated in the complete product development lifecycle of successfully launched projects based on cutting-edge technologies of AI and Blockchain.
 
-👨‍💻 Well versed in C/C++, Python, Java, JavaScript programming languages, frameworks and platforms,  and having good experience in Agile development, DevOps and Team collaboration.
+👨‍💻 Well versed in Python, Java, JavaScript, C/C++ programming languages, frameworks and platforms,  and having good experience in Agile development, DevOps and Team collaboration.
 
 ⚡ A quick learner, hardworking, committed team player, proactive self-starter, resourceful manager and capable of handling stressful conditions.
 
