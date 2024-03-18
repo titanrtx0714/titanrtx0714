@@ -15,8 +15,8 @@
 👨‍🎓 Master of Science (Computer Science)
 
 --- 
-<!-- <img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=IntelMin&show_icons=true&locale=en&hide_border=true&theme=dark&layout=compact" /> -->
-<img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=titanrtx0714&show_icons=true&hide_border=true&theme=dark" />
-<img align="center" alt="Intel's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=IntelMin&hide_border=true&theme=dark" />
+<!-- <img align="center" alt="TITAN's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=titanrtx0714&show_icons=true&locale=en&hide_border=true&theme=dark&layout=compact" /> -->
+<img align="center" alt="TITAN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=titanrtx0714&show_icons=true&hide_border=true&theme=dark" />
+<img align="center" alt="TITAN's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=titanrtx0714&hide_border=true&theme=dark" />
 
 ---
