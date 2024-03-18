@@ -17,6 +17,6 @@
 --- 
 <!-- <img align="center" alt="TITAN's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=titanrtx0714&show_icons=true&locale=en&hide_border=true&theme=dark&layout=compact" /> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titanrtx0714&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" alt="TITAN's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=titanrtx0714&hide_border=true&theme=dark" />
+
 
 ---
